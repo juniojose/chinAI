@@ -1,0 +1,7 @@
+pyautogui
+pywin32
+keyboard
+pydirectinput
+pyscreeze
+Pillow
+opencv-python
